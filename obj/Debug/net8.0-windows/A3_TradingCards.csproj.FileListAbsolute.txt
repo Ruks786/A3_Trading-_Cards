@@ -1,0 +1,27 @@
+C:\Users\rtaiy\OneDrive\Desktop\Hello\CodeforWin\A3_TradingCards\bin\Debug\net8.0-windows\Images\Pat.jpg
+C:\Users\rtaiy\OneDrive\Desktop\Hello\CodeforWin\A3_TradingCards\bin\Debug\net8.0-windows\Images\David.jpg
+C:\Users\rtaiy\OneDrive\Desktop\Hello\CodeforWin\A3_TradingCards\bin\Debug\net8.0-windows\Images\Glen.jpg
+C:\Users\rtaiy\OneDrive\Desktop\Hello\CodeforWin\A3_TradingCards\bin\Debug\net8.0-windows\Images\Jasprit.jpg
+C:\Users\rtaiy\OneDrive\Desktop\Hello\CodeforWin\A3_TradingCards\bin\Debug\net8.0-windows\Images\Kane.jpg
+C:\Users\rtaiy\OneDrive\Desktop\Hello\CodeforWin\A3_TradingCards\bin\Debug\net8.0-windows\Images\Rohit Sharma.jpg
+C:\Users\rtaiy\OneDrive\Desktop\Hello\CodeforWin\A3_TradingCards\bin\Debug\net8.0-windows\Images\Shubman.jpg
+C:\Users\rtaiy\OneDrive\Desktop\Hello\CodeforWin\A3_TradingCards\bin\Debug\net8.0-windows\Images\Steve.jpg
+C:\Users\rtaiy\OneDrive\Desktop\Hello\CodeforWin\A3_TradingCards\bin\Debug\net8.0-windows\Images\Trent.jpg
+C:\Users\rtaiy\OneDrive\Desktop\Hello\CodeforWin\A3_TradingCards\bin\Debug\net8.0-windows\Images\Virat.jpg
+C:\Users\rtaiy\OneDrive\Desktop\Hello\CodeforWin\A3_TradingCards\bin\Debug\net8.0-windows\A3_TradingCards.exe
+C:\Users\rtaiy\OneDrive\Desktop\Hello\CodeforWin\A3_TradingCards\bin\Debug\net8.0-windows\A3_TradingCards.deps.json
+C:\Users\rtaiy\OneDrive\Desktop\Hello\CodeforWin\A3_TradingCards\bin\Debug\net8.0-windows\A3_TradingCards.runtimeconfig.json
+C:\Users\rtaiy\OneDrive\Desktop\Hello\CodeforWin\A3_TradingCards\bin\Debug\net8.0-windows\A3_TradingCards.dll
+C:\Users\rtaiy\OneDrive\Desktop\Hello\CodeforWin\A3_TradingCards\bin\Debug\net8.0-windows\A3_TradingCards.pdb
+C:\Users\rtaiy\OneDrive\Desktop\Hello\CodeforWin\A3_TradingCards\obj\Debug\net8.0-windows\A3_TradingCards.Form1.resources
+C:\Users\rtaiy\OneDrive\Desktop\Hello\CodeforWin\A3_TradingCards\obj\Debug\net8.0-windows\A3_TradingCards.csproj.GenerateResource.cache
+C:\Users\rtaiy\OneDrive\Desktop\Hello\CodeforWin\A3_TradingCards\obj\Debug\net8.0-windows\A3_TradingCards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rtaiy\OneDrive\Desktop\Hello\CodeforWin\A3_TradingCards\obj\Debug\net8.0-windows\A3_TradingCards.AssemblyInfoInputs.cache
+C:\Users\rtaiy\OneDrive\Desktop\Hello\CodeforWin\A3_TradingCards\obj\Debug\net8.0-windows\A3_TradingCards.AssemblyInfo.cs
+C:\Users\rtaiy\OneDrive\Desktop\Hello\CodeforWin\A3_TradingCards\obj\Debug\net8.0-windows\A3_TradingCards.csproj.CoreCompileInputs.cache
+C:\Users\rtaiy\OneDrive\Desktop\Hello\CodeforWin\A3_TradingCards\obj\Debug\net8.0-windows\A3_TradingCards.dll
+C:\Users\rtaiy\OneDrive\Desktop\Hello\CodeforWin\A3_TradingCards\obj\Debug\net8.0-windows\refint\A3_TradingCards.dll
+C:\Users\rtaiy\OneDrive\Desktop\Hello\CodeforWin\A3_TradingCards\obj\Debug\net8.0-windows\A3_TradingCards.pdb
+C:\Users\rtaiy\OneDrive\Desktop\Hello\CodeforWin\A3_TradingCards\obj\Debug\net8.0-windows\A3_TradingCards.genruntimeconfig.cache
+C:\Users\rtaiy\OneDrive\Desktop\Hello\CodeforWin\A3_TradingCards\obj\Debug\net8.0-windows\ref\A3_TradingCards.dll
+C:\Users\rtaiy\OneDrive\Desktop\Hello\CodeforWin\A3_TradingCards\obj\Debug\net8.0-windows\A3_TradingCards.PlayerDetailsForm.resources
